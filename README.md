@@ -2,6 +2,12 @@
 
 Swagger UI Server for debugging purpose.
 
+## Install
+
+```shell
+pip install swagd
+```
+
 ## Usage
 
 Go to the directory containing openapi files. Run `swagd` to start the Swagger UI server:
